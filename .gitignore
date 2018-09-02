@@ -22,6 +22,7 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
+
 *.opendb
 
 # Unity3D generated meta files
@@ -35,4 +36,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+testttt
 confiq.php
